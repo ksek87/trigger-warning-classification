@@ -1,1 +1,1 @@
-# trigger_warning_classification
+# CLASSIFICATION OF 'TRIGGERING' CONTENT ON SOCIAL MEDIA
