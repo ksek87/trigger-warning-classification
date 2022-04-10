@@ -2,7 +2,7 @@
 # ON SOCIAL MEDIA
 
 ## Overview
-  This project was completed during my time in CSCI 4152 - Natural Language Processing. It considersthe problem of automating the assignment of trigger warning labels   to social media posts using traditional classifiers and machine learning techniques.
+  This project was completed during my time in CSCI 4152 - Natural Language Processing. It considers the problem of automating the assignment of trigger warning labels   to social media posts using traditional classifiers and machine learning techniques.
 
   ## Research Project Report
   The full paper can be found here: [report.pdf](https://github.com/ksek87/trigger_warning_classification/blob/main/report.pdf)
