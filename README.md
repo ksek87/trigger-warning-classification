@@ -34,3 +34,5 @@
 - Multinomial Naive Bayes Classifer
 - Feed Forward Neural Network
 - Convolutional Neural Network
+
+Check out my experiments in [here](https://github.com/ksek87/trigger_warning_classification/blob/main/src/pre_processing_and_modelling.ipynb)!
