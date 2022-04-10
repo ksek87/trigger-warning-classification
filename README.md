@@ -2,7 +2,7 @@
 # ON SOCIAL MEDIA
 
 ## Overview
-  This project was completed during my time in CSCI 4152 - Natural Language Processing. It considersthe problem of automating the assignment of trigger warning labels to   social media posts using traditional classifiers and machine learning techniques.
+  This project was completed during my time in CSCI 4152 - Natural Language Processing. It considersthe problem of automating the assignment of trigger warning labels   to social media posts using traditional classifiers and machine learning techniques.
 
   ## Research Project Report
   The full paper can be found here: [report.pdf](https://github.com/ksek87/trigger_warning_classification/blob/main/report.pdf)
@@ -32,13 +32,17 @@
 ## Models
 - Linear SVC Classifier 
 - Multinomial Naive Bayes Classifer
-- Feed Forward Neural Network
-- Convolutional Neural Network
+- Feed Forward Neural Network, architecture adapted from Gkotsis et al.'s [6] research in mental health classification.
+- Convolutional Neural Network, architecture adapted from Kim et al.'s [7] research in mental health classification.
 
 Check out my experiments in [here](https://github.com/ksek87/trigger_warning_classification/blob/main/src/pre_processing_and_modelling.ipynb)!
 
-## Libraries
-
+## Libraries Used
+- Sci-kit Learn
+- Tensorflow Keras
+- Pushshift.io
+- NLTK
+- Gensim
 ## References
 [1] A. Vingiano, “How The ‘Trigger Warning’ Took Over The Internet,” Buzzfeed News, 
 Buzzfeed, 05-May-2014. 
