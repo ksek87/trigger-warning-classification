@@ -56,7 +56,7 @@ Proceedings of the ACM on Human-Computer Interaction, vol. 4, no. CSCW2, pp. 1�
 in Social Media: A cyber watchdog for surveillance,” Expert Systems with Applications, vol. 
 161, p. 113725, 2020. 
 
-[5] I. Soldevilla and N. Flores, “Natural language processing through Bert for identifying genderbased violence messages on social media,” 2021 IEEE International Conference on 
+[5] I. Soldevilla and N. Flores, “Natural language processing through Bert for identifying gender-based violence messages on social media,” 2021 IEEE International Conference on 
 Information Communication and Software Engineering (ICICSE), 2021. 
 
 [6] G. Gkotsis, A. Oellrich, S. Velupillai, M. Liakata, T. J. Hubbard, R. J. Dobson, and R. Dutta, 
