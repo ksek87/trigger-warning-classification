@@ -26,7 +26,7 @@
   
  ## Dataset 
   - The dataset for this project was collected from Reddit using the [data_scraping_processing](https://github.com/ksek87/trigger_warning_classification/blob/main/src/data_scraping_processing.ipynb) notebook. 
-  - For my research, the dataset comprises of 361,641 reddit posts upon completion of pre-processing (too large for github). 
+  - For my research, the dataset comprises of 361,641 reddit posts upon completion of pre-processing. 
 
 ## Models
 - Linear SVC Classifier 
