@@ -31,8 +31,10 @@
 ## Models
 - Linear SVC Classifier 
 - Multinomial Naive Bayes Classifer
-- Feed Forward Neural Network, architecture adapted from Gkotsis et al.'s [6] research in mental health classification.
-- Convolutional Neural Network, architecture adapted from Kim et al.'s [7] research in mental health classification.
+- Feed Forward Neural Network
+    - Architecture adapted from Gkotsis et al.'s [6] research in mental health classification.
+- Convolutional Neural Network
+    - Architecture adapted from Kim et al.'s [7] research in mental health classification.
 
 Check out my experiments in [here](https://github.com/ksek87/trigger_warning_classification/blob/main/src/pre_processing_and_modelling.ipynb)!
 
