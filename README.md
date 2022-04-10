@@ -1,5 +1,4 @@
-# CLASSIFICATION OF 'TRIGGERING' CONTENT 
-# ON SOCIAL MEDIA
+# CLASSIFICATION OF 'TRIGGERING' CONTENT ON SOCIAL MEDIA
 
 ## Overview
   This project was completed during my time in CSCI 4152 - Natural Language Processing. It considers the problem of automating the assignment of trigger warning labels   to social media posts using traditional classifiers and machine learning techniques.
