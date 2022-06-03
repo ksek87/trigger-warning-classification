@@ -5,6 +5,7 @@
 
   ## Research Project Report
   The full paper can be found here: [report.pdf](https://github.com/ksek87/trigger_warning_classification/blob/main/report.pdf)
+  If you use my work, please cite it! :)
   ### Abstract
   The growth of social media has changed the way people discuss sensitive topics, making it difficult 
   for people with a history of trauma or Post Traumatic Stress Disorder (PTSD) to avoid content that 
