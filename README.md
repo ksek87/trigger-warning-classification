@@ -6,7 +6,19 @@
   ## Research Project Report
   The full paper can be found here: [report.pdf](https://github.com/ksek87/trigger_warning_classification/blob/main/report.pdf)
   
+  # Citation
   If you use my work, please cite it! :)
+
+```bibtex
+@misc{trigger-warning-classification,
+  author       = {Keelin Sekerka-Bajbus},
+  title        = {Trigger Warning Classification},
+  year         = {2021},
+  url          = {[https://github.com/your-username/your-repo-name](https://github.com/ksek87/trigger-warning-classification/)},
+  note         = {Accessed: 2023-09-29}
+}
+```
+  
   ### Abstract
   The growth of social media has changed the way people discuss sensitive topics, making it difficult 
   for people with a history of trauma or Post Traumatic Stress Disorder (PTSD) to avoid content that 
